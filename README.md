@@ -1,4 +1,8 @@
 * 👋 Hi, I'm Joseph Moyalan and I am a PhD student at the Mechanical Engineering Department of Clemson University with a focus on dynamics and control systems.
+*
+* 🌱 My current projects involve data-driven control of nonlinear systems for safety and convergence. This involves the use of the density function from measure theory to provide a convex formulation for optimal control problems in the function space. My other projects involve the safe navigation of complex nonlinear systems using control density functions.
+
+* 📫 How to reach me: josephraphelm@gmail.com    
 
 <!--
 **JMoyalan/JMoyalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
