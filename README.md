@@ -2,7 +2,7 @@
 * 👀 I'm interested in optimization and optimal control of nonlinear complex systems.
 * 🌱 My current projects involve data-driven control of nonlinear systems for safety and convergence. This involves the use of the density function from measure theory to provide a convex formulation for optimal control problems in the function space. My other projects involve the safe navigation of complex nonlinear systems using control density functions.
 * 👯 I’m looking to collaborate on machine learning implementation for control of real-world examples like robotics, vehicle dynamics, and navigation.
-* 🔭 To look at my recent publications, please visit my Google Scholar page [here](https://scholar.google.com/citations?user=smwttLYAAAAJ&hl=en)
+* 🔭 To look at my recent publications, please visit my Google Scholar page [here](https://scholar.google.com/citations?user=smwttLYAAAAJ&hl=en).
 * 📫 How to reach me: josephraphelm@gmail.com    
 
 <!--
