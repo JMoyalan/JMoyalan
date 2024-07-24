@@ -1,4 +1,4 @@
-## Hi there 👋
+-👋 Hi, I'm Joseph Moyalan and I am a PhD student at the Mechanical Engineering Department of Clemson University.
 
 <!--
 **JMoyalan/JMoyalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
